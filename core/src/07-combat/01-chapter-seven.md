@@ -253,7 +253,7 @@ Resolving a bane attack is very similar to making a damaging attack, except wher
 
 1. **Choose your target.** Choosing targets and determining range for bane attacks is identical to the process for damaging attacks, including multi-targeting options. Note that banes invoked with Agility or Might require a weapon or natural attack, and are thus limited by the range of the attack.
 
-1. **Roll your attack.** Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.  **If your total exceeds the target's defense score by 10 or more, you invoke a "Potent Bane" which, follows the same rules as the [Potent Bane](http://www.openlegendrpg.com/feats/potent_bane) feat.**
+1. **Roll your attack.** Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.  **If your total exceeds the target's defense score by 10 or more, you invoke a "Potent Bane" which follows the same rules as the [Potent Bane](http://www.openlegendrpg.com/feats/potent_bane) feat.**
 
 > ##### Example Bane Attacks
 >
