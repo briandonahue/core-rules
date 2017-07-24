@@ -253,11 +253,15 @@ Resolving a bane attack is very similar to making a damaging attack, except wher
 
 1. **Choose your target.** Choosing targets and determining range for bane attacks is identical to the process for damaging attacks, including multi-targeting options. Note that banes invoked with Agility or Might require a weapon or natural attack, and are thus limited by the range of the attack.
 
-1. **Roll your attack.** Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.
+1. **Roll your attack.** Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.  **If your total exceeds the target's defense score by 10 or more, you invoke a "Potent Bane" which, follows the same rules as the [Potent Bane](http://www.openlegendrpg.com/feats/potent_bane) feat.**
 
 > ##### Example Bane Attacks
 >
 > Takeo is heavily wounded and needs a chance to escape from the samurai who is mercilessly pressing the attack. With a well-timed snake strike, the monk attempts to blind the armored warrior. Takeo is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the samurai's Guard of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
+>
+> * * * * *
+>
+> Daranar is a druid, and a friend to animals, but his party is being attacked by an angry mother bear.  Rather than hurt the bear, Daranar attempts to invoke the Charmed bane using his Influence of 5. He rolls a 1d20 + 2d6 and scores a 28 against the bear's Resolve of 15.  Having exceeded the bear's defense by 10 or more, a Potent Bane is invoked, and now the bear will suffer disadvantage 1 on attempt to resist the Charmed bane. The bear fails to resist, and with a single command "GO" the bear scampers off into the forest.
 >
 > * * * * *
 >
