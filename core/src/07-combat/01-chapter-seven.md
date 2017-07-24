@@ -337,13 +337,45 @@ Special movement includes climbing, jumping, swimming, and other movement that i
 
 #### Resist Banes
 
-You can use a move action to recover from one or more banes afflicting you. This move action cost is a simplified way of representing any number of different ways you might go about shaking off the wide range of banes you might be afflicted by. Roll 1d20 (with no attribute modifiers). If your roll is a 10 or higher, the bane is removed. Note that some banes have different rules for how they can be resisted.
+When affected by a bane, you can attempt to resist its effect, and if successful, that bane is removed from you. There are two ways you can resist a bane.
+
+**Passive Resist**
+You can forfeit your move action in order to passively resist a bane.  A passive resist roll is a single d20 (with no attribute modifiers) and it must meet or exceed the Passive Resist Challenge Rating for the bane's Power Level.  The CR for a passive resist is equal to 10 + the bane's power level.  
+
+<div class="table-no-body"></div>
+| Bane Passive Resist Challenge Rating |
+| - |
+| |
+<div class="table-no-head"></div>
+| | | | | | | | | | | |
+| - | - | - | - | - | - | - | - | - | - | - |
+| **Power Level** | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| **Challenge Rating** | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+
+**Active Resist**
+
+For a more powerful attempt to resist a bane, you can choose to use your major action to roll an active resist roll against the bane's Active Resist Challenge Rating, which is equal to 10 + *twice* the bane's power level.  You may also use a Focus Action for your Active Resist roll to gain advantage 1, but you will be unable to perform any Passive Resist rolls if you do so as you will have forfetied your move action. Also, any boons currently affecting the attribute you are using to resist the bane will still take affect (if you have a Bolster boon on your Might, and are using it to resist an immobile bane, you may apply the additional advantage).  
+
+<div class="table-no-body"></div>
+| Bane Active Resist Challenge Rating |
+| - |
+| |
+<div class="table-no-head"></div>
+| | | | | | | | | | | |
+| - | - | - | - | - | - | - | - | - | - | - |
+| **Power Level** | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| **Challenge Rating** | 10 | 12 | 14 | 16 | 18 | 20 | 22 | 24 | 26 | 28 |
 
 Many banes will persist for a longer duration after three failed resist attempts to shake them off. As such, you should keep a tally of any banes which you to fail resist.
 
 > ##### Example of Resisting Banes
 >
-> After standing toe-to-toe with an Ichor Demon for six rounds, Garcon is afflicted with three banes: *persistent damage*, *slowed*, and *blinded*. He uses his move action to attempt to resist these banes, so he rolls a d20 for each one, getting an 8, 16, and 9, respectively. Therefore, Garcon manages to shake off *slowed*, but he is still suffering from *persistent damage* and *blinded*. He notes on his character sheet that he has failed to resist each of these banes once.
+> After standing toe-to-toe with an Ichor Demon for six rounds, Garcon is afflicted with three banes: *persistent damage (PL 2)*, *slowed* (PL 1), and *blinded (PL 5)*. He uses his move action to attempt to passively resist these banes, so he rolls a d20 for each one, getting an 8 vs CR 12, 16 vs CR 11, and 14 vs CR 15, respectively. Therefore, Garcon manages to shake off *slowed*, but he is still suffering from *persistent damage* and *blinded*. He notes on his character sheet that he has failed to resist each of these banes once.
+>
+> *****
+>
+> Alternatively, Garcon may decide that he *really* doesn't want so suffer the effects of the *blinded (PL 5)* bane, and decides to actively resist it.  He uses his Creation of 5 to clear the poison affecting his vision, and he makes this a Focus Action.  With advantage 1, he rolls 1d20 and 3d6 keeping the highest 2d6. He scores an 18 against the Active Resist Challenge Rating of 20, so he fails to resist the ichor's blinding effect, and his turn is now finished.
+
 
 ### Minor Actions
 
