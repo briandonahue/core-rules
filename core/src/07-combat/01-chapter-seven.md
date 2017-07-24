@@ -374,7 +374,7 @@ Many banes will persist for a longer duration after three failed resist attempts
 >
 > *****
 >
-> Alternatively, Garcon may decide that he *really* doesn't want so suffer the effects of the *blinded (PL 5)* bane, and decides to actively resist it.  He uses his Creation of 5 to clear the poison affecting his vision, and he makes this a Focus Action.  With advantage 1, he rolls 1d20 and 3d6 keeping the highest 2d6. He scores an 18 against the Active Resist Challenge Rating of 20, so he fails to resist the ichor's blinding effect, and his turn is now finished.
+> Alternatively, Garcon may decide that he *really* doesn't want to suffer the effects of the *blinded (PL 5)* bane, and decides to actively resist it.  He uses his Creation of 5 to clear the ichor affecting his vision, and he makes this a Focus Action. With advantage 1, he rolls 1d20 and 3d6 keeping the highest 2d6. He scores an 18 against the Active Resist Challenge Rating of 20, so he fails to resist the ichor's blinding effect, and his turn is now finished.
 
 
 ### Minor Actions
